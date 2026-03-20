@@ -1,2 +1,3 @@
-# prime-booking-system-b8wz
+# Prime Booking System B8Wz
+
 A repository to test GitHub automation for issue management.
